@@ -25,3 +25,4 @@ Through this project, I aim to identify customer churn patterns, understand the 
 ## Dataset
 
 IBM Telco Customer Churn Dataset (Kaggle)
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn
